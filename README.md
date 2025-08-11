@@ -1,0 +1,1 @@
+Developed “Café Aroma”, a Django-based e-commerce site for a dine-in coffee shop. Features include custom user auth, product management, session-based cart, Razorpay payments, OTP verification, order tracking with admin updates, and SMTP-based contact form.
