@@ -113,8 +113,10 @@ CafeAroma/
 ###
 1️⃣ Clone the Repository
 
-<pre> git clone https://github.com/MrSamarjitBanerjee/CafeAroma.git
-      cd cafe_aroma </pre>
+<pre> 
+  git clone https://github.com/MrSamarjitBanerjee/CafeAroma.git
+  cd cafe_aroma 
+</pre>
 
 2️⃣ Create Virtual Environment & Install Dependencies
 <pre>
