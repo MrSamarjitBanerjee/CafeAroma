@@ -7,7 +7,7 @@
 ![Café Aroma Banner](https://i.ibb.co/fHkT0jQ/coffee-banner.gif)
 
 > **Café Aroma** is a **full-stack Django web application** built to bring the cozy coffeehouse experience online.  
-> Designed with a **beautiful UI**, **seamless UX**, and **robust backend** — this project blends technology and taste in perfect harmony.
+> Designed with a **beautiful UI**, **seamless UX**, and **robust backend** using Django & SQLite — this project blends technology and taste in perfect harmony.
 
 ---
 
