@@ -88,8 +88,8 @@ cafe_aroma/
 ###
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/cafe-aroma.git
-cd cafe_aroma
+<pre> ```bash  git clone https://github.com/yourusername/cafe-aroma.git
+cd cafe_aroma``` </pre>
 
 2️⃣ Create Virtual Environment & Install Dependencies
 python -m venv venv
