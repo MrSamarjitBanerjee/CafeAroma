@@ -123,10 +123,11 @@ CafeAroma/
   python -m venv venv
   venv\Scripts\activate    # Windows
   source venv/bin/activate # Mac/Linux
+  pip install -r requirements.txt
 </pre>
 
 
-pip install -r requirements.txt
+
 
 3️⃣ Apply Migrations
 <pre>python manage.py migrate</pre>
