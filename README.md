@@ -70,15 +70,40 @@
 ---
 
 ## 🏗️ Project Structure
-cafe_aroma/
+<pre> 
+CafeAroma/
+├── CafeAroma/                 # Main project folder
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
 │
-├── authentication/ # Handles user login & registration
-├── main/ # Products, cart, orders, payment
-├── templates/ # HTML templates
-├── static/ # CSS, JS, images
-├── db.sqlite3
+├── authentication/            # Custom user authentication app
+│   ├── migrations/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── views.py
+│   ├── urls.py
+│   ├── forms.py
+│
+├── main/                       # Core app for café functionality
+│   ├── migrations/
+│   ├── static/                 # CSS, JS, Images
+│   ├── templates/              # HTML templates
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── views.py
+│   ├── urls.py
+│
 ├── manage.py
-└── README.md
+├── requirements.txt
+├── README.md
+</pre>
 
 
 ---
