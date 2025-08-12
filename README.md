@@ -89,30 +89,27 @@ cafe_aroma/
 1️⃣ Clone the Repository
 
 <pre> git clone https://github.com/MrSamarjitBanerjee/CafeAroma.git
-cd cafe_aroma </pre>
+  cd cafe_aroma </pre>
 
 2️⃣ Create Virtual Environment & Install Dependencies
-python -m venv venv
-venv\Scripts\activate    # Windows
-source venv/bin/activate # Mac/Linux
+<pre>
+  python -m venv venv
+  venv\Scripts\activate    # Windows
+  source venv/bin/activate # Mac/Linux
+</pre>
+
 
 pip install -r requirements.txt
 
 3️⃣ Apply Migrations
-bash
-Copy
-Edit
-python manage.py migrate
+<pre>python manage.py migrate</pre>
+
 4️⃣ Create Superuser
-bash
-Copy
-Edit
-python manage.py createsuperuser
+<pre> python manage.py createsuperuser </pre>
+
 5️⃣ Run the Server
-bash
-Copy
-Edit
-python manage.py runserver
+<pre>python manage.py runserver</pre>
+
 Visit http://127.0.0.1:8000/
 
 🖼️ Screenshots
